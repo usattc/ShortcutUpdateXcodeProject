@@ -35,8 +35,8 @@ alias {自定的命令}='sh {Shell脚本路径}'
 source ~/.bash_profile
 ###  5. 完成
 在"终端"输入{自定的命令}, 将完成项目的git pull + pod update + 运行, 真正"一键"!
-
-
+<br>
+<br>
 #### 关于macOS环境变量
 masOS配置环境有几个地方<br>
  1./etc/profile<br>
